@@ -14,7 +14,7 @@ Frustrated by only being able to snag a couple of courses for Udemy's Black Frid
 * https://www.udemy.com/the-complete-apple-watch-course-make-real-apps-from-scratch/
 * https://www.udemy.com/the-art-of-real-ios-programming/
 
-## WebDeisgn / Development
+## Web Design / Development
 * https://www.udemy.com/learn-html5-programming-from-scratch/
 * https://www.udemy.com/learn-object-oriented-php-by-building-a-complete-website/
 * https://www.udemy.com/ecommerce-website-in-php-mysqli/
