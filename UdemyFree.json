@@ -1,0 +1,63 @@
+[
+	{
+		"Desktop / Systems Programming": {
+			"link": "https://www.udemy.com/free-learn-c-tutorial-beginners/",
+			"link": "https://www.udemy.com/crash-course-into-javafx-the-best-way-to-make-gui-apps/",
+			"link": "https://www.udemy.com/decoding-ap-computer-science-a/",
+			"link": "https://www.udemy.com/windows-10-for-absolute-beginners/",
+			"link": "https://www.udemy.com/java-for-noobs-go-from-noob-to-semi-noob-noob-coder/"
+		},
+		"Mobile Programming":{
+			"link": "https://www.udemy.com/become-an-android-developer-from-scratch/",
+			"link": "https://www.udemy.com/core-data-maps-media-swift-app-developer/",
+			"link": "https://www.udemy.com/the-complete-apple-watch-course-make-real-apps-from-scratch/",
+			"link": "https://www.udemy.com/the-art-of-real-ios-programming/"
+		},
+		"Web Design / Development":{
+			"link": "https://www.udemy.com/learn-html5-programming-from-scratch/",
+			"link": "https://www.udemy.com/learn-object-oriented-php-by-building-a-complete-website/",
+			"link": "https://www.udemy.com/ecommerce-website-in-php-mysqli/",
+			"link": "https://www.udemy.com/php-mysql-tutorial/",
+			"link": "https://www.udemy.com/learn-ruby-on-rails-from-scratch/learn/v4/overview",
+			"link": "https://www.udemy.com/aspnet-mvc-quick-start/",
+			"link": "https://www.udemy.com/single-page-layout-with-bootstrap/",
+			"link": "https://www.udemy.com/learn-ionic-framework-build-a-stock-market-mobile-app/",
+			"link": "https://www.udemy.com/wordpress-101/"
+		},
+		"NoSQL / SQL":{
+			"link": "https://www.udemy.com/database-design/",
+			"link": "https://www.udemy.com/marklogic-fundamentals/",
+			"link": "https://www.udemy.com/semantics/",
+			"link": "https://www.udemy.com/marklogic-nosql-xquery/"
+		},
+		"Data":{
+			"link": "https://www.udemy.com/hadoopstarterkit/",
+			"link": "https://www.udemy.com/r-basics/",
+			"link": "https://www.udemy.com/setup-big-data-development-environment/",
+			"link": "https://www.udemy.com/big-data-internship-program-part-1-foundation/"
+		},
+		"DevOps, Testing, Automation (aka Misc)":{
+			"link": "https://www.udemy.com/burp-suite/",
+			"link": "https://www.udemy.com/linux-command-line-volume1/",
+			"link": "https://www.udemy.com/selenium-training/"
+		},
+		"Networking":{
+			"link": "https://www.udemy.com/newccnax-200-120/",
+			"link": "https://www.udemy.com/network-engineer-taster-courses/",
+			"link": "https://www.udemy.com/cisco-ccna-getting-started/",
+			"link": "https://www.udemy.com/ccnproute/"
+		},
+		"Design / Office":{
+			"link": "https://www.udemy.com/living-logos-animation-simple-after-effects/",
+			"link": "https://www.udemy.com/learn-adobe-photoshop-from-scratch/",
+			"link": "https://www.udemy.com/professional-logo-design-crash-course/",
+			"link": "https://www.udemy.com/useful-excel-for-beginners/",
+			"link": "https://www.udemy.com/ioniya-autocad-2010/",
+			"link": "https://www.udemy.com/become-an-adobe-edge-animate-ninja-everything-from-a-z/"
+		},
+		"Games":{
+			"link": "https://www.udemy.com/create-a-2d-game-in-unity/",
+			"link": "https://www.udemy.com/unity3d-concepts/"
+		}
+	}
+]
