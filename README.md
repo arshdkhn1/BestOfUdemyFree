@@ -24,6 +24,7 @@ Frustrated by only being able to snag a couple of courses for Udemy's Black Frid
 * https://www.udemy.com/single-page-layout-with-bootstrap/
 * https://www.udemy.com/learn-ionic-framework-build-a-stock-market-mobile-app/
 * https://www.udemy.com/wordpress-101/
+* https://www.udemy.com/javascript-essentials/
 
 ## NoSQL / SQL
 * https://www.udemy.com/database-design/
