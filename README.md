@@ -13,6 +13,7 @@ Frustrated by only being able to snag a couple of courses for Udemy's Black Frid
 * https://www.udemy.com/core-data-maps-media-swift-app-developer/
 * https://www.udemy.com/the-complete-apple-watch-course-make-real-apps-from-scratch/
 * https://www.udemy.com/the-art-of-real-ios-programming/
+* https://www.udemy.com/learn-ionic-framework-build-a-stock-market-mobile-app/
 
 ## Web Design / Development
 * https://www.udemy.com/learn-html5-programming-from-scratch/
