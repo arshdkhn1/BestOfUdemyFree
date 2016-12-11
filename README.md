@@ -7,6 +7,7 @@ Frustrated by only being able to snag a couple of courses for Udemy's Black Frid
 * https://www.udemy.com/decoding-ap-computer-science-a/
 * https://www.udemy.com/windows-10-for-absolute-beginners/
 * https://www.udemy.com/java-for-noobs-go-from-noob-to-semi-noob-noob-coder/
+* https://www.udemy.com/java-tutorial/
 
 ## Mobile Programming
 * https://www.udemy.com/become-an-android-developer-from-scratch/

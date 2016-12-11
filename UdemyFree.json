@@ -21,8 +21,12 @@
 			{
 				"title": "Java For Noobs: Go From Noob To Semi-Noob",
 				"link": "https://www.udemy.com/java-for-noobs-go-from-noob-to-semi-noob-noob-coder/"
-			}
-		]
+			},
+            {
+                "title:": "Java Tutorial for Complete Beginners",
+                "link": "https://www.udemy.com/java-tutorial/"
+            }   
+        ]
 	},
 	{
 		"section": "Mobile Programming",
